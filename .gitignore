@@ -1,0 +1,8 @@
+/.idea
+*.iml
+/user-center-frontend/.idea/
+/user-center-frontend/node_modules/
+/user-center-backend/target/
+/user-center-backend/.idea/
+/user-center-frontend/.husky/
+/user-center-frontend/src/.umi/
